@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AO.iml" filepath="$PROJECT_DIR$/AO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bigdata/bigdata.iml" filepath="$PROJECT_DIR$/../bigdata/bigdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-annwithoutxml/spring-annwithoutxml.iml" filepath="$PROJECT_DIR$/../spring-annwithoutxml/spring-annwithoutxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring/spring-beans/spring-beans.iml" filepath="$PROJECT_DIR$/../spring/spring-beans/spring-beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring/spring-di/spring-di.iml" filepath="$PROJECT_DIR$/../spring/spring-di/spring-di.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-factory/spring-factory.iml" filepath="$PROJECT_DIR$/../spring-factory/spring-factory.iml" />
+    </modules>
+  </component>
+</project>
